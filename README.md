@@ -1,5 +1,5 @@
 <h1>Hi! I'm Leonardo Formaggio</h1>
-<h2>But you can call me just <strong>Leo</strong> or just <strong>Formaggio</strong>.</h2>
+<h2>But you can call me <strong>Leo</strong> or <strong>Formaggio</strong> if you want.</h2>
 <p>💻 I'm starting a jurney to be a python developer!</br>
 🎓 Student of System Analysis and Development on Descomplica University, Brazil.</br>
 🌎 Furthermore, I speak Portuguese, Spanish and English.</br>
