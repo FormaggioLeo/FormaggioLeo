@@ -1,6 +1,6 @@
 <h1>Hi! I'm Leonardo Formaggio</h1>
 <h2>But you can call me just <strong>Leo</strong> or just <strong>Formaggio</strong>.</h2>
-<p>💻 I'm back-end full-stack Jr.</br>
+<p>💻 I'm starting a jurney to be a python developer!</br>
 🎓 Student of System Analysis and Development on Descomplica University, Brazil.</br>
-🌎 Furthermore, I speak any languages as Native Portuguese, fluent Spanish, intermediate English and a bit of Italian.</br>
-😁 Yeah, I really love the idea of knowing more about the world, people, culture and their languages.</br>
+🌎 Furthermore, I speak Portuguese, Spanish and English.</br>
+😁 I'm an addicted about the world, technologies, people, culture... Should I say I'm that curious, about, AT EVERYTHING?
